@@ -56,6 +56,6 @@ function renderizarNotas(array){
                             <div>${item.nota}
                               <a href="#!" class="secondary-content">${item.fecha}</a>
                             </div>
-                          </li>`;
+                        </li>`;
   });
 }
